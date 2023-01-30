@@ -1,0 +1,18 @@
+#+TITLE: RTL Goals etc.
+#+STARTUP: indent
+* Live event structure
+1. Create Toornament event
+   - make sure you can sign up manually
+   - people will have to make an account
+   - see if you can set up tourament days and stuff
+2. Post Rules and Toornament Event
+   - let Toornament generate the bracket
+3. confirm with people before each person's tournament day
+   - Will you attend?
+   - reschedule?
+4. For each tournament day:
+   1. put everyone participating into the Discord Server
+   2. make everyone test screensharing with VDO.ninja
+   3. Everyone waits until it's the time of their match
+      - match order is done according to Toornament
+   4. 
