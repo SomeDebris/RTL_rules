@@ -7,12 +7,18 @@
    - see if you can set up tourament days and stuff
 2. Post Rules and Toornament Event
    - let Toornament generate the bracket
+   - SINGLE ELIMINATION
 3. confirm with people before each person's tournament day
    - Will you attend?
    - reschedule?
 4. For each tournament day:
    1. put everyone participating into the Discord Server
-   2. make everyone test screensharing with VDO.ninja
-   3. Everyone waits until it's the time of their match
+   2. make everyone test screensharing with VDO.ninja in a VC
+   3. The stream starts
+   4. Everyone waits until it's the time of their match
       - match order is done according to Toornament
-   4. 
+   5. The Match is run
+      1. move the participants from the Waiting call to the
+         main call.
+      2. They will be unable to unmute in this call.
+      3. both participants will
